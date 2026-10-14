@@ -1,5 +1,11 @@
 # FrostPedal
 
+<!-- project-status:start -->
+![Statut : Terminé](https://img.shields.io/static/v1?label=Statut&message=Termin%C3%A9&color=success)
+
+**Statut du projet : Terminé** · Mis à jour le 14/10/2026.
+<!-- project-status:end -->
+
 Défis quotidiens pour votre aventure à vélo au Grand Nord.
 
 ## Getting Started
